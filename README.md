@@ -1,4 +1,4 @@
-![](api_yamdb/api_yamdb/static/header.png)
+![](api_yamdb/static/header.png)
 #Документация к API проекта YAMDB (v1)
 Проект YaMDb собирает отзывы пользователей на различные произведения;
 ___
